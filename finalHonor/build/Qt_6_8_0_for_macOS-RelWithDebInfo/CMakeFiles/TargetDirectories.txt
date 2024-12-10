@@ -1,0 +1,9 @@
+/Users/abubakardiallo/Desktop/Qt/finalHonor/build/Qt_6_8_0_for_macOS-RelWithDebInfo/CMakeFiles/finalHonor.dir
+/Users/abubakardiallo/Desktop/Qt/finalHonor/build/Qt_6_8_0_for_macOS-RelWithDebInfo/CMakeFiles/edit_cache.dir
+/Users/abubakardiallo/Desktop/Qt/finalHonor/build/Qt_6_8_0_for_macOS-RelWithDebInfo/CMakeFiles/rebuild_cache.dir
+/Users/abubakardiallo/Desktop/Qt/finalHonor/build/Qt_6_8_0_for_macOS-RelWithDebInfo/CMakeFiles/list_install_components.dir
+/Users/abubakardiallo/Desktop/Qt/finalHonor/build/Qt_6_8_0_for_macOS-RelWithDebInfo/CMakeFiles/install.dir
+/Users/abubakardiallo/Desktop/Qt/finalHonor/build/Qt_6_8_0_for_macOS-RelWithDebInfo/CMakeFiles/install/local.dir
+/Users/abubakardiallo/Desktop/Qt/finalHonor/build/Qt_6_8_0_for_macOS-RelWithDebInfo/CMakeFiles/install/strip.dir
+/Users/abubakardiallo/Desktop/Qt/finalHonor/build/Qt_6_8_0_for_macOS-RelWithDebInfo/CMakeFiles/finalHonor_autogen_timestamp_deps.dir
+/Users/abubakardiallo/Desktop/Qt/finalHonor/build/Qt_6_8_0_for_macOS-RelWithDebInfo/CMakeFiles/finalHonor_autogen.dir

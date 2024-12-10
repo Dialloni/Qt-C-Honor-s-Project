@@ -1,0 +1,22 @@
+{
+	"BUILD_DIR" : "/Users/abubakardiallo/Desktop/Qt/finalHonor/build/Qt_6_8_0_for_macOS-RelWithDebInfo/finalHonor_autogen",
+	"CMAKE_BINARY_DIR" : "/Users/abubakardiallo/Desktop/Qt/finalHonor/build/Qt_6_8_0_for_macOS-RelWithDebInfo",
+	"CMAKE_CURRENT_BINARY_DIR" : "/Users/abubakardiallo/Desktop/Qt/finalHonor/build/Qt_6_8_0_for_macOS-RelWithDebInfo",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/Users/abubakardiallo/Desktop/Qt/finalHonor",
+	"CMAKE_SOURCE_DIR" : "/Users/abubakardiallo/Desktop/Qt/finalHonor",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "/Users/abubakardiallo/Desktop/Qt/finalHonor/build/Qt_6_8_0_for_macOS-RelWithDebInfo/finalHonor_autogen/include",
+	"INPUTS" : [],
+	"LOCK_FILE" : "/Users/abubakardiallo/Desktop/Qt/finalHonor/build/Qt_6_8_0_for_macOS-RelWithDebInfo/CMakeFiles/finalHonor_autogen.dir/AutoRcc_videoEkran_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "videoEkran" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_videoEkran.cpp",
+	"RCC_EXECUTABLE" : "/Users/abubakardiallo/Qt/6.8.0/macos/libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/Users/abubakardiallo/Desktop/Qt/finalHonor/build/Qt_6_8_0_for_macOS-RelWithDebInfo/CMakeFiles/finalHonor_autogen.dir/AutoRcc_videoEkran_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/Users/abubakardiallo/Desktop/Qt/finalHonor/videoEkran.qrc",
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}
